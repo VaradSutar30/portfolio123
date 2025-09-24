@@ -99,7 +99,7 @@ const WorkProcess = () => {
 
             <div className='w-full pt-32 flex gap-10 flex-col justify-center items-center'>
                 <img src="/undraw_progressive-app_9517.svg" alt="undraw_designer_efwz" className='h-64' />
-                <h4 className='text-2xl text-zinc-500 text-center'>I ♥️ Frontend Developement</h4>
+                <h4 className='text-2xl text-zinc-500 text-center'>I ♥️ Web Developer</h4>
             </div>
 
         </section>
