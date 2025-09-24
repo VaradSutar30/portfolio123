@@ -18,7 +18,7 @@ const Navbar = () => {
                 </div>
 
                 {/* name */}
-                <h2 className='text-lg font-[500]'>Hii! I'm Tushar😎</h2>
+                <h2 className='text-lg font-[500]'>Hii! I'm Varad😎😉</h2>
             </div>
 
             {/* links */}
