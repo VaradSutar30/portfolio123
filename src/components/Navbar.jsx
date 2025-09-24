@@ -10,7 +10,7 @@ const Navbar = () => {
             <div className='flex gap-4 items-center'>
                 {/* profile image */}
                 <div className='h-14 w-14 lg:h-[64px] lg:w-[64px] rounded-full relative'>
-                    <img src='/tushar28.webp' alt="MyImage" className='h-14 w-14 lg:h-[64px] lg:w-[64px] rounded-full' />
+                    <img src='/Varad.webp' alt="MyImage" className='h-14 w-14 lg:h-[64px] lg:w-[64px] rounded-full' />
                     {/* badge */}
                     <div className='h-[26px] w-[26px] text-white bg-[#14CF93] rounded-full flex justify-center items-center absolute bottom-0 -right-2'>
                         <FaStar className='text-sm' />
@@ -52,7 +52,7 @@ const Navbar = () => {
                 </a>
 
                 <a
-                    href="https://www.linkedin.com/in/tushar-suryawanshi-599806299/"
+                    href="https://www.linkedin.com/in/varad-sutar-8a936b287/"
                     target="_blank"
                     className="group w-[160px] h-[52px] text-lg text-white font-[500] bg-[#14CF93] rounded-4xl cursor-pointer flex justify-center items-center gap-2 overflow-hidden"
                 >

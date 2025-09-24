@@ -49,7 +49,7 @@ const Contactme = () => {
                 <h1 className="text-2xl md:text-6xl font-semibold text-zinc-700 mt-4 pb-4 cursor-pointer transition-all duration-300">
                     {/* iamtushar part */}
                     <span className={`transition-all duration-300 ${getStyle(['profile', 'link', 'email'])}`}>
-                        iamtushar
+                    IamVarad
                     </span>
                     {/* 28 part */}
                     <span className={`transition-all duration-300 ${getStyle(['link', 'email'])}`}>
